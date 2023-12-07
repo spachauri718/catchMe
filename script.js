@@ -10,3 +10,4 @@ function handleEvent(){
 
 
 box.addEventListener('mouseover',handleEvent)
+box.addEventListener('touchstart',handleEvent)
